@@ -1,0 +1,15 @@
+body {
+	background-color: black;
+}
+
+p {
+	color: green;
+	font-family: monospace;
+	font-size: 12pt;
+	word-wrap: break-word;
+}
+
+.hidden {
+	display: none;
+}
+
